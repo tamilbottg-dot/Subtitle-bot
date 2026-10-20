@@ -29,12 +29,12 @@ nest_asyncio.apply()
 # ======================================================================
 # CONFIGURATION
 # ======================================================================
-ALLOWED_USERS = []  # e.g., [123456789, 987654321]
+ALLOWED_USERS = [5816147544, 6143815638]  # e.g., [123456789, 987654321]
 
 
 API_ID = 30088220
 API_HASH = "c42d40e6ff0696672743dc431fe1c2e3"
-BOT_TOKEN = "8832706348:AAEgiS2HEjEIDpgs0db2x5wlsSuoaxB6UmQ"
+BOT_TOKEN = "8900893349:AAEDU2CetQLMMM_f0fAErLoLyZWjLj8xx-g"
 
 
 if API_ID == 123456 or "your_" in API_HASH.lower() or BOT_TOKEN == "your_bot_token":
